@@ -1,0 +1,8 @@
+.footer {
+    color: black;
+    display: inline;  
+    text-align: center;
+    justify-content: space-around;
+    width: 10vw;
+    font-family: 'Trebuchet MS';
+}
