@@ -1,0 +1,29 @@
+.pit {
+    display: flex;
+    flex-wrap: wrap;
+    border: 3px solid rgb(130, 108, 67);
+    border-radius: 100px;
+    width: 8.5vw;
+    min-height: 8.5vw;
+    margin: .5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    background-color: rgb(206, 162, 80);
+}
+
+.pit:hover {
+    background-color: rgb(173, 137, 71);
+    border: 3px solid rgb(105, 86, 52);
+    cursor: pointer;
+}
+
+.pit:disabled {
+    background-color: rgb(230, 188, 95);
+    border: 3px solid rgb(130, 108, 67);
+}
+.pit:disabled:hover {
+    cursor: default;
+}

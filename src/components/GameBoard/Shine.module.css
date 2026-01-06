@@ -1,0 +1,9 @@
+.shine {
+    display: flex;
+    height: 3px;
+    width: 7px;
+    background-color: rgb(198, 128, 159);
+    border-radius: 10px;
+    margin-left: .6rem;
+    margin-top: .1rem;
+}

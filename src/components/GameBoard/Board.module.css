@@ -1,0 +1,21 @@
+.board {
+    display: flex;
+    height: 350px;
+    width: 1225px;
+    background-color: rgb(230, 188, 95);
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 100px;  
+}
+
+.board section {
+    display: block;
+}
+
+.field {
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+    height: 100%;
+}

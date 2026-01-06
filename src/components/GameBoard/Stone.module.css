@@ -1,0 +1,9 @@
+.stone {
+    display: flex;
+    height: 16px;
+    width: 20px;
+    border: 1px solid rgb(78, 15, 45);
+    background-color: rgb(150, 28, 87);
+    border-radius: 10px;
+    margin: .14rem;
+}

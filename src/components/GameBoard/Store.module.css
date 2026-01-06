@@ -1,0 +1,13 @@
+.store {
+    display: flex;
+    flex-wrap: wrap;
+    border: 3px solid rgb(130, 108, 67);
+    border-radius: 100px;
+    width: 8.5vw;
+    height: 20vw;
+    margin: 1rem;
+    justify-content: space-evenly;
+    align-items: center;
+    overflow: hidden;
+    box-shadow: brown;
+}
